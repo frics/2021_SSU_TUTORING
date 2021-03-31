@@ -4,4 +4,6 @@ int main(){
     printf("css\n");
 
     int num;
+    num++;
+    num++;
 }
