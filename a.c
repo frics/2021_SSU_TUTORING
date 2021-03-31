@@ -1,13 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main(){
-	printf("kmj\n");
-}#include<stdio.h>
-
-int main(){
-	printf("kmj\n");
-}#include<stdio.h>
-
-int main(){
+int main()
+{
 	printf("kmj\n");
 }
